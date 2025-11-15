@@ -11,6 +11,6 @@ Voici mon porfolio ou vous pourrez retrouver:
 
 En cliquant sur le lien ci-dessous vous pourrez voir mon site sevrant aussi de CV dans lequel vous retrouverez des information générale  
 
-[Le site en question](Brad1507.github.io).
+[Le site en question](https://brad1507.github.io/)
 
 Le corp du site a été fait par mon ancien professeur de NSI et j'ai écris les information présent dedans, tout en réutilisant et comprenant les fonctions java présent dans le code
