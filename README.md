@@ -32,3 +32,7 @@ Vous pouvez retrouvez ci-dessous quelque photo d'un projet ayant pour but d'appr
 ![aa](img/portfolio/atelier1_12.jpg)
 
 Des vidéo seront disponible dans le dossier portfolio(*mais ils étais trop gros pour que je puisse les afficher sdans ce readMe*)
+
+## Mon début de projet de jeu vidéo
+
+Dans ce projet je n'ai pas suivi les grande ligne que l'on doir suivre lors de la création d'un jeu et je l'ai fait d'instant en fesant ce qui me passais par la tête et cela 
