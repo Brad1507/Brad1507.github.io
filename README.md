@@ -21,4 +21,14 @@ Voici deux projeys auquele j'ai participier sous differentes facon
 
 Le premier dans lequel j'étais acteur a ce lien :  https://www.youtube.com/watch?v=gkwSmC-PUxA&t=4s
 
-Et ce second court métrage dans lequel 
+Et ce second court métrage dans lequel j'ai pu avoir plusieur role :  https://www.youtube.com/watch?v=sbhUF9MLC4k&t=1s
+
+## Projet Scolaire
+
+Vous pouvez retrouvez ci-dessous quelque photo d'un projet ayant pour but d'apprender sous forme de leçon ludo-éducatif a programmer un robot avec mBlock
+
+![aa](img/portfolio/atelier1_06.jpg)
+![aa](img/portfolio/atelier1_10.jpg)
+![aa](img/portfolio/atelier1_12.jpg)
+
+Des vidéo seront disponible dans le dossier portfolio(*mais ils étais trop gros pour que je puisse les afficher sdans ce readMe*)
