@@ -36,3 +36,6 @@ Des vidéo seront disponible dans le dossier portfolio(*mais ils étais trop gro
 ## Mon début de projet de jeu vidéo
 
 Dans ce projet je n'ai pas suivi les grande ligne que l'on doir suivre lors de la création d'un jeu et je l'ai fait d'instant en fesant ce qui me passais par la tête et cela 
+
+![aa](img/portfolio/20251119_151720.jpg)
+![c048e5e3-a13f-4d85-96cf-394b148410a8](https://github.com/user-attachments/assets/79f7bf8d-db17-44b5-abe1-0d86db8288a1)
