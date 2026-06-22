@@ -17,7 +17,7 @@ Le corp du site a été fait par mon ancien professeur de NSI et j'ai écris les
 
 ## Projet artisitque : Court métrage
 
-Voici deux projeys auquele j'ai participier sous differentes facon 
+Voici deux projets auxquels j'ai participé de différentes façons
 
 Le premier dans lequel j'étais acteur a ce lien :  https://www.youtube.com/watch?v=gkwSmC-PUxA&t=4s
 
@@ -25,17 +25,17 @@ Et ce second court métrage dans lequel j'ai pu avoir plusieur role :  https://w
 
 ## Projet Scolaire
 
-Vous pouvez retrouvez ci-dessous quelque photo d'un projet ayant pour but d'apprender sous forme de leçon ludo-éducatif a programmer un robot avec mBlock
+Vous pouvez retrouvez ci-dessous quelque photo d'un projet ayant pour but d'apprendre sous forme de leçon ludo-éducatif a programmer un robot avec mBlock
 
 ![aa](img/portfolio/atelier1_06.jpg)
 ![aa](img/portfolio/atelier1_10.jpg)
 ![aa](img/portfolio/atelier1_12.jpg)
 
-Des vidéo seront disponible dans le dossier portfolio(*mais ils étais trop gros pour que je puisse les afficher sdans ce readMe*)
+Des vidéo seront disponible dans le dossier portfolio(*mais ils étais trop gros pour que je puisse les afficher dans ce readMe*)
 
 ## Mon début de projet de jeu vidéo
 
-Dans ce projet je n'ai pas suivi les grande ligne que l'on doir suivre lors de la création d'un jeu et je l'ai fait d'instant en fesant ce qui me passais par la tête et cela 
+Dans ce projet je n'ai pas suivi les grandes lignes que l'on doit suivre lors de la création d'un jeu et je l'ai fait d'instant en fesant ce qui me passais par la tête.
 
 ![aa](img/portfolio/20251119_151720.jpg)
 ![c048e5e3-a13f-4d85-96cf-394b148410a8](https://github.com/user-attachments/assets/79f7bf8d-db17-44b5-abe1-0d86db8288a1)
